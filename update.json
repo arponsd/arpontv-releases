@@ -1,10 +1,10 @@
 {
-  "versionCode": 0,
-  "versionName": "0",
-  "apkUrl": "",
-  "apkSizeBytes": 0,
-  "sha256": "",
-  "changelog": "Bootstrap — awaiting first published release.",
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/arponsd/arpontv-releases/releases/download/v1.3/ArponTV-v1.3-release.apk",
+  "apkSizeBytes": 3252384,
+  "sha256": "ed24aa7cbf6e2cb2260faff6792078b54a9dde3c964c50d1a2ad7e0ab9ea097c",
+  "changelog": "• Host release artifacts on public repo; bump to v1.3",
   "minSupportedVersionCode": 1,
   "forceUpdate": false
 }
