@@ -1,10 +1,10 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/arponsd/arpontv-releases/releases/download/v1.4/ArponTV-v1.4-release.apk",
-  "apkSizeBytes": 3252557,
-  "sha256": "7b2f39c73b63907fe30db5e6b0b42c4983094a88da74322c94f7c2e044430deb",
-  "changelog": "• v1.4: show app version in top bar (update-flow test)\n• Host release artifacts on public repo; bump to v1.3\n• ci: publish update.json for v1.2",
+  "versionCode": 6,
+  "versionName": "1.5",
+  "apkUrl": "https://github.com/arponsd/arpontv-releases/releases/download/v1.5/ArponTV-v1.5-release.apk",
+  "apkSizeBytes": 3252382,
+  "sha256": "96f92e0c93415d35d89ca6d48c887e4f03c99a9b2d32d42fed57b5a1c6b28e02",
+  "changelog": "• v1.5: check for updates every launch; re-prompt instead of skip",
   "minSupportedVersionCode": 1,
   "forceUpdate": false
 }
