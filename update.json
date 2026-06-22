@@ -1,10 +1,10 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://github.com/arponsd/arpontv-releases/releases/download/v1.5/ArponTV-v1.5-release.apk",
-  "apkSizeBytes": 3252382,
-  "sha256": "96f92e0c93415d35d89ca6d48c887e4f03c99a9b2d32d42fed57b5a1c6b28e02",
-  "changelog": "• v1.5: check for updates every launch; re-prompt instead of skip",
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/arponsd/arpontv-releases/releases/download/v1.6/ArponTV-v1.6-release.apk",
+  "apkSizeBytes": 3258471,
+  "sha256": "36afd41d47fc6f18d98e269b47c43a0ecb18bdac50b43ff5318daabc53767ed0",
+  "changelog": "• v1.6: brightness & volume swipe gestures in the player",
   "minSupportedVersionCode": 1,
   "forceUpdate": false
 }
