@@ -1,10 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/arponsd/arpontv-releases/releases/download/v1.6/ArponTV-v1.6-release.apk",
-  "apkSizeBytes": 3258471,
-  "sha256": "36afd41d47fc6f18d98e269b47c43a0ecb18bdac50b43ff5318daabc53767ed0",
-  "changelog": "• v1.6: brightness & volume swipe gestures in the player",
+  "versionCode": 8,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/arponsd/arpontv-releases/releases/download/v1.7/ArponTV-v1.7-release.apk",
+  "apkSizeBytes": 3259522,
+  "sha256": "8196c58b78e7a54173ee84e140d27b8ad6339d52b5bac4538a740d4d6908b65e",
+  "changelog": "• Fix: qualify Activity isPlaying inside ExoPlayer apply scope\n• v1.7: fix fullscreen top bar not auto-hiding (self-managed controls)",
   "minSupportedVersionCode": 1,
   "forceUpdate": false
 }
